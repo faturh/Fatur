@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Website Development, Android App Development, Machine Learning, and Cyber Security.
+I'm currently studying Website Development, Android App Development, Machine Learning, and also studying Cyber Security.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/faturh) 
