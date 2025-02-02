@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently studying Website Development, Android App Development, Machine Learning, and also studying Cyber Security.
+
 ## 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
